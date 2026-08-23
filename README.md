@@ -14,19 +14,9 @@
 
 ---
 
-## 👨‍💻 About Me
+## Professional Summary
 
-Results-driven **Senior Full Stack Engineer** with **10+ years** of experience architecting high-scale, resilient platforms in **FinTech**, **Crypto**, and **E-commerce** domains.
-
-**Expertise:** Building distributed systems using React, TypeScript, Node.js, Python (FastAPI), and Golang, integrated via GraphQL (Apollo/Federation) and Apache Kafka for event-driven consistency.
-
-**Specialization:** Designing **BFF (Backend-for-Frontend)** layers optimizing data orchestration for data-intensive UIs (TradingView, AgGrid, ECharts). Expert in **WCAG 2.1 AA**, **Core Web Vitals**, and **AI-assisted engineering** (RAG, Agentic workflows).
-
-**Key Achievements:**
-- ⚡ Reduced page load times by **30%** through modern architecture
-- 📈 Increased user engagement by **15%** via performance optimization
-- 🛡️ Maintained **99.9% uptime** during extreme traffic spikes
-- 💾 Reduced mobile data consumption by **50%** via GraphQL optimization
+Senior Full-Stack Engineer with 10+ years of experience delivering fintech, crypto, and e-commerce platforms. Strong backend expertise in microservices, event-driven architecture, API orchestration, and distributed systems. Proven delivery across wallet, KYC, payments, and trading domains using React, Next.js, Node.js, Golang, Python (FastAPI), GraphQL, Kafka, PostgreSQL, MongoDB, and Redis. Experienced in Agile squads with sprint planning, backlog refinement, story estimation, standups, and retrospectives. Supports engineering quality through mentoring, code reviews, and cross-team technical collaboration.
 
 ---
 
@@ -107,40 +97,50 @@ Cursor, GitHub Copilot, ChatGPT, Prompt Engineering, RAG (Retrieval-Augmented Ge
 
 ## 💼 Work Experience
 
-### **MultiBank** — Dubai, UAE
-**Senior Software Engineer** | *2025 – Present*
+## MultiBank — Dubai, UAE
+**Senior Full-Stack Engineer | 2025 – Present**
 
-- Architected and delivered the frontend for a regulated multi-tenant crypto/fintech SaaS platform using React, Next.js, and TypeScript
-- Built real-time data-intensive interfaces using WebSockets, ECharts, TradingView, and Ag-Grid with virtualization for high-frequency trading data
-- Contributed to product and technical discussions on replacing third-party integrations with in-house solutions using FastAPI, Go, and Node.js for trading analytics, order execution, and compliance
-- Applied event-driven architecture with Apache Kafka to support trade, order, wallet, and audit event flows across distributed services
-- Established a reusable component library with Storybook and enforced WCAG 2.1 AA accessibility standards
-- Improved Core Web Vitals through SSR/ISR optimization
-- Mentored engineers on clean architecture, TypeScript best practices, and AI-assisted development
-- Architecting React Native Expo migration leveraging Hermes engine and Nitro modules for native-grade performance
+- Modernized mb.io using Next.js, Tailwind CSS, REST APIs, and GraphQL.
+- Engineered responsive mobile-first interfaces for wallet and trading products.
+- Implemented custody wallet flows: buy, sell, deposit, and withdraw.
+- Integrated KYC onboarding with Sumsub SDK.
+- Integrated payment providers: Botim, Klyme, Checkout, and Lean.
+- Delivered spot trading workflows with TradingView advanced charting.
+- Shipped recurring buy and limit order features.
+- Built React Native Expo proof-of-concept using Hermes, Fabric, TurboModules, JSI, Reanimated 3, and React Query caching.
+- Applied Feature-Sliced Design for maintainable web and app architecture.
+- Coordinated with backend squads to validate API contracts and integration behavior.
+- Improved release reliability through testing, monitoring, and feature tracking.
+- Mentored junior engineers and supported onboarding for new team members.
+- Accelerated refactoring and delivery using Claude-assisted workflows, prompt engineering, and token optimization.
+- Contributed across Agile ceremonies: sprint planning, backlog refinement, standups, estimation, and retrospectives.
 
-### **M2.COM** — Dubai, UAE
-**Senior Software Engineer** | *2023 – 2025*
+## M2.com — Dubai, UAE
+**Senior Software Engineer | 2023 – 2025**
 
-- Led full-stack development of a crypto trading platform (React + Next.js + TypeScript + Node.js) with live trading, staking, and multi-chain wallet integration (Notabene Web3 SDK)
-- Orchestrated complex Spring Boot and Node.js backend service integration through REST APIs while implementing event tracking for user behavior analysis
-- Built high-performance dashboards using TradingView, ECharts, and Ag-Grid with real-time data streaming
-- Designed and implemented a distributed content synchronization system connecting back-office CMS to front-office applications
-- Streamlined feature delivery across multiple squads with conflict-free deployments
-- Automated OTC desk workflows through Zendesk bot integration
-- Improved performance, accessibility, and security via SSR, Core Web Vitals, OAuth2/OIDC, and RBAC
+- Delivered full-stack features for trading and digital asset products.
+- Coordinated REST integrations across Spring Boot and Node.js services.
+- Built real-time dashboards with TradingView, ECharts, and Ag-Grid.
+- Implemented distributed content synchronization between CMS and customer-facing applications.
+- Strengthened platform quality through SSR patterns, Core Web Vitals optimization, OAuth2/OIDC, and RBAC controls.
+- Collaborated with product, QA, and backend teams for sprint-based releases.
+- Increased delivery throughput through AI-assisted implementation workflows.
 
-### **Jumia Group** — Dubai, UAE
-**Full Stack Developer** | *2018 – 2023*
+## Jumia Group — Dubai, UAE
+**Full Stack Developer | 2018 – 2023**
 
-- Engineered scalable e-commerce modules for Africa's largest marketplace using React and Vue.js
-- Ensured UI consistency via shared enterprise design system
-- **50% reduction** in mobile data consumption by migrating REST endpoints to GraphQL
-- Optimized high-concurrency checkout flows using Golang (Gin), maintaining **99.9% uptime** during Black Friday sales
-- Built automated catalog pipelines with FastAPI and Celery managing real-time pricing for millions of SKUs
-- Synchronized order fulfillment across warehouse microservices using Apache Kafka
-- Migrated legacy jQuery monoliths to Nuxt.js/React SSR stack: **30% reduction in page load times**, **15% increase in conversion rates**
-- Supported regional i18n, multi-lingual localization, and mobile-first optimizations
+### JFORCE
+
+- Contributed to a microservice and event-driven platform using Golang, PHP, Python, Node.js, and Kafka.
+- Selected fit-for-purpose data stores including MongoDB, PostgreSQL, and Redis.
+- Supported scalable workflows for sales and operational tools.
+
+### Jumia Deals (Pan-African Classifieds)
+
+- Developed platform features using Nuxt.js and Falcon PHP.
+- Enhanced search and caching behavior using Elasticsearch and Redis.
+- Implemented asynchronous workflows with SQS and state-machine logic.
+- Integrated JumiaPay SDK into transaction flows.
 
 ### **GrowByData** — Kathmandu, Nepal
 **Front-End UI/UX Developer** | *2015 – 2016*
@@ -179,6 +179,20 @@ Bachelor's Degree in Business Studies — Tribhuvan University (2010 – 2014)
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushilparajuli&theme=radical" alt="GitHub Streak" />
 </div>
+
+---
+
+## Core Competencies
+
+- Microservices Architecture
+- Event-Driven Systems (Kafka)
+- REST API / GraphQL Integration
+- Distributed Data Systems
+- Wallet, KYC, Payments, Trading
+- Performance Optimization
+- CI/CD and Release Reliability
+- Agile Delivery (Scrum, Sprint Planning, Backlog Refinement, Retrospectives)
+- Mentoring and Cross-Squad Collaboration
 
 ---
 
