@@ -1,6 +1,6 @@
 # Hi there, I'm Sushil Parajuli 👋
 
-## 🚀 Senior Full Stack Engineer | FinTech & Crypto Specialist | 10+ Years Experience
+## 🚀 Senior Full Stack Engineer | FinTech , Crypto, E-commerce  | 10+ Years Experience
 
 <div align="center">
 
